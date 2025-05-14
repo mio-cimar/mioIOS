@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "banistas-icon.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

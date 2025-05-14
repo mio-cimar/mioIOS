@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "20F6DDC72BFEFB649C4BC3219C74859DE08C0224",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C277D3C4F7265BCFCD1131984FD773655026F3A9" : 9223372036854775807,
+    "20F6DDC72BFEFB649C4BC3219C74859DE08C0224" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9250A24C-3C10-4AD9-881C-839944BEC9D4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C277D3C4F7265BCFCD1131984FD773655026F3A9" : "Mi%20Dash\/",
+    "20F6DDC72BFEFB649C4BC3219C74859DE08C0224" : "mio\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MIO",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MIO\/MIO.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/imactus\/ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "20F6DDC72BFEFB649C4BC3219C74859DE08C0224"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/Kampha\/mi-dash-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C277D3C4F7265BCFCD1131984FD773655026F3A9"
+    }
+  ]
+}

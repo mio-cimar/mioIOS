@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="12141" systemVersion="16B2657" minimumToolsVersion="Xcode 7.0" sourceLanguage="Objective-C" userDefinedModelVersionIdentifier="">
+    <entity name="LocalForecast" representedClassName="LocalForecast" syncable="YES">
+        <attribute name="date" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="identifier" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="localForecast" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="waveDirection" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="waveHeight" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="waveHeightMax" optional="YES" attributeType="Double" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="wavePeriod" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="windBurst" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="windDirection" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="windSpeed" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="NO" syncable="YES"/>
+    </entity>
+    <entity name="LocalForecastRegion" representedClassName="LocalForecastRegion" syncable="YES">
+        <attribute name="comment" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="englishName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="identifier" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="largeIcon" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="largeMapURL" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="mediumIcon" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="mediumMapURL" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="order" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="regionId" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="saltiness" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="swell" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="temperature" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="wind" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="RegionalForecast" representedClassName="RegionalForecast" syncable="YES"/>
+    <entity name="RegionalForecastType" representedClassName="RegionalForecastType" syncable="YES">
+        <attribute name="animation" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="date" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="dateString" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="englishName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="identifier" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="largeIcon" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="mediumIcon" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="order" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="scaleBar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="text" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="slides" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="RegionalForecastTypeSlide" inverseName="regionalForecastType" inverseEntity="RegionalForecastTypeSlide" syncable="YES"/>
+    </entity>
+    <entity name="RegionalForecastTypeSlide" representedClassName="RegionalForecastTypeSlide" syncable="YES">
+        <attribute name="date" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="identifier" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="image" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="order" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <relationship name="regionalForecastType" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="RegionalForecastType" inverseName="slides" inverseEntity="RegionalForecastType" syncable="YES"/>
+    </entity>
+    <entity name="Tide" representedClassName="Tide" syncable="YES">
+        <attribute name="date" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="dateString" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="identifier" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="isHighTide" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="moon" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="tideHeight" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="tideRegion" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+    </entity>
+    <entity name="TideEntry" representedClassName="TideEntry" parentEntity="Tide" syncable="YES"/>
+    <entity name="TideEntrySearchResult" representedClassName="TideEntrySearchResult" parentEntity="Tide" syncable="YES"/>
+    <entity name="TideRegion" representedClassName="TideRegion" syncable="YES">
+        <attribute name="englishName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="identifier" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="largeIcon" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="mediumIcon" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="order" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="smallIcon" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Warning" representedClassName="Warning" syncable="YES">
+        <attribute name="date" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="identifier" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="level" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="order" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="subtitle" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="text" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="title" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="LocalForecast" positionX="162" positionY="-18" width="128" height="195"/>
+        <element name="LocalForecastRegion" positionX="-63" positionY="-18" width="128" height="255"/>
+        <element name="RegionalForecast" positionX="54" positionY="54" width="128" height="45"/>
+        <element name="RegionalForecastType" positionX="63" positionY="63" width="128" height="225"/>
+        <element name="RegionalForecastTypeSlide" positionX="144" positionY="135" width="128" height="120"/>
+        <element name="Tide" positionX="45" positionY="288" width="128" height="150"/>
+        <element name="TideEntry" positionX="223" positionY="288" width="128" height="45"/>
+        <element name="TideEntrySearchResult" positionX="214" positionY="207" width="128" height="45"/>
+        <element name="TideRegion" positionX="54" positionY="90" width="128" height="150"/>
+        <element name="Warning" positionX="1672" positionY="54" width="128" height="150"/>
+    </elements>
+</model>

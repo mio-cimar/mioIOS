@@ -1,0 +1,5 @@
+3.0.3 (03000335) 13/07/2019:
+- Add topic for dev.
+
+3.0.3 (03000331) 13/07/2019:
+- Fix push notifications after account change.

@@ -1,0 +1,403 @@
+X
+/* Class = "UILabel"; text = "> 22.2 Km/h"; ObjectID = "0az-df-JNR"; */
+"0az-df-JNR.text" = "> 22.2 Km/h";
+
+/* Class = "UILabel"; text = "Oleajes altos"; ObjectID = "13h-hA-xOd"; */
+"13h-hA-xOd.text" = "Oleajes altos";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1NA-kz-xRG"; */
+"1NA-kz-xRG.text" = "Label";
+
+/* Class = "UILabel"; text = "Asunto:"; ObjectID = "1RI-eR-oyf"; */
+"1RI-eR-oyf.text" = "Asunto:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1uU-2X-ca2"; */
+"1uU-2X-ca2.text" = "Label";
+
+/* Class = "UILabel"; text = "Velocidad"; ObjectID = "2Rc-T6-55V"; */
+"2Rc-T6-55V.text" = "Velocidad";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2pW-Kl-aRM"; */
+"2pW-Kl-aRM.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Prueba"; ObjectID = "3AY-fY-UNa"; */
+"3AY-fY-UNa.title" = "Prueba";
+
+/* Class = "UILabel"; text = "Fase lunar"; ObjectID = "3em-m3-F8K"; */
+"3em-m3-F8K.text" = "Fase lunar";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3xf-eE-DXd"; */
+"3xf-eE-DXd.text" = "Label";
+
+/* Class = "UISegmentedControl"; 4Qh-gj-m9b.segmentTitles[0] = "Comentario"; ObjectID = "4Qh-gj-m9b"; */
+"4Qh-gj-m9b.segmentTitles[0]" = "Comentario";
+
+/* Class = "UISegmentedControl"; 4Qh-gj-m9b.segmentTitles[1] = "Glosario"; ObjectID = "4Qh-gj-m9b"; */
+"4Qh-gj-m9b.segmentTitles[1]" = "Glosario";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "4bQ-14-nhK"; */
+"4bQ-14-nhK.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UIButton"; normalTitle = "Ver Comentario"; ObjectID = "5mc-q3-hFi"; */
+"5mc-q3-hFi.normalTitle" = "Ver Comentario";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7Qg-H0-UJ5"; */
+"7Qg-H0-UJ5.text" = "Label";
+
+/* Class = "UILabel"; text = "30 junio, 2016 | 9 pm"; ObjectID = "9C7-bv-Qgg"; */
+"9C7-bv-Qgg.text" = "30 junio, 2016 | 9 pm";
+
+/* Class = "UISegmentedControl"; A0j-zC-03B.segmentTitles[0] = "Advertencias"; ObjectID = "A0j-zC-03B"; */
+"A0j-zC-03B.segmentTitles[0]" = "Advertencias";
+
+/* Class = "UISegmentedControl"; A0j-zC-03B.segmentTitles[1] = "Informativas"; ObjectID = "A0j-zC-03B"; */
+"A0j-zC-03B.segmentTitles[1]" = "Informativas";
+
+/* Class = "UISegmentedControl"; A0j-zC-03B.segmentTitles[2] = "Todas"; ObjectID = "A0j-zC-03B"; */
+"A0j-zC-03B.segmentTitles[2]" = "Todas";
+
+/* Class = "UILabel"; text = "99.9"; ObjectID = "Ays-uq-skF"; */
+"Ays-uq-skF.text" = "99.9";
+
+/* Class = "UINavigationItem"; title = "Pronósticos regionales"; ObjectID = "BSc-jf-YxE"; */
+"BSc-jf-YxE.title" = "Pronósticos regionales";
+
+/* Class = "UILabel"; text = "Calificar esta app"; ObjectID = "BXG-fw-1xe"; */
+"BXG-fw-1xe.text" = "Calificar esta app";
+
+/* Class = "UILabel"; text = "Velocidad del viento (km/h)"; ObjectID = "Bkj-0g-2e1"; */
+"Bkj-0g-2e1.text" = "Velocidad del viento (km/h)";
+
+/* Class = "UINavigationItem"; title = "Altura"; ObjectID = "Boq-0t-hfv"; */
+"Boq-0t-hfv.title" = "Altura";
+
+/* Class = "UILabel"; text = "REDES SOCIALES"; ObjectID = "CHG-6w-cis"; */
+"CHG-6w-cis.text" = "REDES SOCIALES";
+
+/* Class = "UILabel"; text = "DirV"; ObjectID = "DC6-ZJ-aeH"; */
+"DC6-ZJ-aeH.text" = "DirV";
+
+/* Class = "UILabel"; text = "metros"; ObjectID = "DMd-U7-IvG"; */
+"DMd-U7-IvG.text" = "metros";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "DN4-gh-4zh"; */
+"DN4-gh-4zh.title" = " ";
+
+/* Class = "UILabel"; text = "Hora"; ObjectID = "DOS-OE-NOJ"; */
+"DOS-OE-NOJ.text" = "Hora";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "DcR-lz-LHx"; */
+"DcR-lz-LHx.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "E5g-yc-oeu"; */
+"E5g-yc-oeu.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Idioma"; ObjectID = "FrX-WX-IwA"; */
+"FrX-WX-IwA.title" = "Idioma";
+
+/* Class = "UIViewController"; title = "Info"; ObjectID = "HZt-xs-Jsu"; */
+"HZt-xs-Jsu.title" = "Info";
+
+/* Class = "UILabel"; text = "> 29.6 Km/h"; ObjectID = "ILP-RH-rBh"; */
+"ILP-RH-rBh.text" = "> 29.6 Km/h";
+
+/* Class = "UILabel"; text = "Aviso legal"; ObjectID = "InB-i3-WPc"; */
+"InB-i3-WPc.text" = "Aviso legal";
+
+/* Class = "UILabel"; text = "> 1 metro"; ObjectID = "JJm-Rt-RDz"; */
+"JJm-Rt-RDz.text" = "> 1 metro";
+
+/* Class = "UILabel"; text = "Oleajes altos"; ObjectID = "JTM-37-sqV"; */
+"JTM-37-sqV.text" = "Oleajes altos";
+
+/* Class = "UILabel"; text = "Válido del miércoles 13/16 al miércoles 20/16"; ObjectID = "JqK-Oc-u7e"; */
+"JqK-Oc-u7e.text" = "Válido del miércoles 13/16 al miércoles 20/16";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "K8F-rd-cpk"; */
+"K8F-rd-cpk.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "V"; ObjectID = "KD9-Sv-xu6"; */
+"KD9-Sv-xu6.text" = "V";
+
+/* Class = "UINavigationItem"; title = "Velocidad"; ObjectID = "Kej-SC-8wx"; */
+"Kej-SC-8wx.title" = "Velocidad";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LGM-gf-QsJ"; */
+"LGM-gf-QsJ.text" = "Label";
+
+/* Class = "UILabel"; text = "omar.lizano@ucr.ac.cr"; ObjectID = "LoH-rI-cuf"; */
+"LoH-rI-cuf.text" = "omar.lizano@ucr.ac.cr";
+
+/* Class = "UILabel"; text = "Ráf."; ObjectID = "M9p-pN-zSc"; */
+"M9p-pN-zSc.text" = "Ráf.";
+
+/* Class = "UILabel"; text = "Marea"; ObjectID = "MuK-Fe-TL1"; */
+"MuK-Fe-TL1.text" = "Marea";
+
+/* Class = "UILabel"; text = "Permitir notificaciones"; ObjectID = "ORP-vK-Qec"; */
+"ORP-vK-Qec.text" = "Permitir notificaciones";
+
+/* Class = "UINavigationItem"; title = "¿Quiénes Somos?"; ObjectID = "OaB-p8-l3b"; */
+"OaB-p8-l3b.title" = "¿Quiénes Somos?";
+
+/* Class = "UINavigationItem"; title = "Notificaciones"; ObjectID = "P6O-5a-SUw"; */
+"P6O-5a-SUw.title" = "Notificaciones";
+
+/* Class = "UILabel"; text = "Rangos de viento"; ObjectID = "Piz-3p-ggJ"; */
+"Piz-3p-ggJ.text" = "Rangos de viento";
+
+/* Class = "UILabel"; text = "Altura máxima de la ola (metros)"; ObjectID = "Ptf-C5-kLn"; */
+"Ptf-C5-kLn.text" = "Altura máxima de la ola (metros)";
+
+/* Class = "UILabel"; text = "Altura"; ObjectID = "Pv9-O5-w2D"; */
+"Pv9-O5-w2D.text" = "Altura";
+
+/* Class = "UILabel"; text = "Velocidad"; ObjectID = "Q0Z-mg-TfM"; */
+"Q0Z-mg-TfM.text" = "Velocidad";
+
+/* Class = "UILabel"; text = "Altura"; ObjectID = "QNb-Zx-Z6P"; */
+"QNb-Zx-Z6P.text" = "Altura";
+
+/* Class = "UILabel"; text = "99.9"; ObjectID = "RVa-J6-y0J"; */
+"RVa-J6-y0J.text" = "99.9";
+
+/* Class = "UILabel"; text = "Hsig"; ObjectID = "Rcn-3d-QB3"; */
+"Rcn-3d-QB3.text" = "Hsig";
+
+/* Class = "UILabel"; text = "Aviso legal"; ObjectID = "SDB-Us-SB9"; */
+"SDB-Us-SB9.text" = "Aviso legal";
+
+/* Class = "UIButton"; normalTitle = "imactus"; ObjectID = "T1p-m3-HSu"; */
+"T1p-m3-HSu.normalTitle" = "imactus";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "T3y-KA-Mhr"; */
+"T3y-KA-Mhr.text" = "Label";
+
+/* Class = "UILabel"; text = "Permitir notificaciones"; ObjectID = "T6l-mG-yFg"; */
+"T6l-mG-yFg.text" = "Permitir notificaciones";
+
+/* Class = "UILabel"; text = "> 2 metros"; ObjectID = "TXk-Zs-6Cc"; */
+"TXk-Zs-6Cc.text" = "> 2 metros";
+
+/* Class = "UILabel"; text = "Rangos de altura de la ola"; ObjectID = "TZZ-BI-zOX"; */
+"TZZ-BI-zOX.text" = "Rangos de altura de la ola";
+
+/* Class = "UILabel"; text = "Colaboradores"; ObjectID = "TqD-xQ-Fxp"; */
+"TqD-xQ-Fxp.text" = "Colaboradores";
+
+/* Class = "UILabel"; text = "Mensaje:"; ObjectID = "Usa-7s-zfv"; */
+"Usa-7s-zfv.text" = "Mensaje:";
+
+/* Class = "UINavigationItem"; title = "Pronósticos locales"; ObjectID = "UxW-ox-f1c"; */
+"UxW-ox-f1c.title" = "Pronósticos locales";
+
+/* Class = "UILabel"; text = "TTTTTTTTTTTT"; ObjectID = "VoV-lr-NB3"; */
+"VoV-lr-NB3.text" = "TTTTTTTTTTTT";
+
+/* Class = "UIBarButtonItem"; title = "OK"; ObjectID = "WYv-91-b5a"; */
+"WYv-91-b5a.title" = "OK";
+
+/* Class = "UINavigationItem"; title = "Puntarenas"; ObjectID = "Y3L-wB-Wb9"; */
+"Y3L-wB-Wb9.title" = "Puntarenas";
+
+/* Class = "UIButton"; normalTitle = "UCR"; ObjectID = "Y9m-Ch-y3F"; */
+"Y9m-Ch-y3F.normalTitle" = "UCR";
+
+/* Class = "UIButton"; normalTitle = "+506 2511-2210"; ObjectID = "YER-gB-C3I"; */
+"YER-gB-C3I.normalTitle" = "+506 2511-2210";
+
+/* Class = "UILabel"; text = "99.9"; ObjectID = "YvB-8V-1ln"; */
+"YvB-8V-1ln.text" = "99.9";
+
+/* Class = "UINavigationItem"; title = "Oleaje y Viento"; ObjectID = "aIy-xs-0TY"; */
+"aIy-xs-0TY.title" = "Oleaje y Viento";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "akp-xF-aZQ"; */
+"akp-xF-aZQ.text" = "Label";
+
+/* Class = "UILabel"; text = "km/h"; ObjectID = "alu-GH-9WW"; */
+"alu-GH-9WW.text" = "km/h";
+
+/* Class = "UILabel"; text = "Altura"; ObjectID = "bPw-eF-QJ4"; */
+"bPw-eF-QJ4.text" = "Altura";
+
+/* Class = "UILabel"; text = "Dirección de las olas (grados)"; ObjectID = "bqG-dM-cR4"; */
+"bqG-dM-cR4.text" = "Dirección de las olas (grados)";
+
+/* Class = "UILabel"; text = "> 40.7 Km/h"; ObjectID = "bqr-mM-sWX"; */
+"bqr-mM-sWX.text" = "> 40.7 Km/h";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "c44-iQ-Bho"; */
+"c44-iQ-Bho.text" = "Label";
+
+/* Class = "UISegmentedControl"; cUf-xS-ewL.segmentTitles[0] = "Comentario"; ObjectID = "cUf-xS-ewL"; */
+"cUf-xS-ewL.segmentTitles[0]" = "Comentario";
+
+/* Class = "UISegmentedControl"; cUf-xS-ewL.segmentTitles[1] = "Glosario"; ObjectID = "cUf-xS-ewL"; */
+"cUf-xS-ewL.segmentTitles[1]" = "Glosario";
+
+/* Class = "UILabel"; text = "99.9"; ObjectID = "dCl-1d-V4P"; */
+"dCl-1d-V4P.text" = "99.9";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "dze-sh-zk0"; */
+"dze-sh-zk0.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "e7c-AE-hMV"; */
+"e7c-AE-hMV.text" = "Label";
+
+/* Class = "UILabel"; text = "Idioma"; ObjectID = "f4P-yQ-xXX"; */
+"f4P-yQ-xXX.text" = "Idioma";
+
+/* Class = "UILabel"; text = "HH"; ObjectID = "fP6-t7-6Pu"; */
+"fP6-t7-6Pu.text" = "HH";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fPV-8M-aAy"; */
+"fPV-8M-aAy.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Enviar"; ObjectID = "fVT-Fz-DF7"; */
+"fVT-Fz-DF7.normalTitle" = "Enviar";
+
+/* Class = "UILabel"; text = "> 3 metros"; ObjectID = "ffC-eF-XA3"; */
+"ffC-eF-XA3.text" = "> 3 metros";
+
+/* Class = "UIButton"; normalTitle = "imactus"; ObjectID = "fpU-32-qbs"; */
+"fpU-32-qbs.normalTitle" = "imactus";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gG0-qL-tNT"; */
+"gG0-qL-tNT.text" = "Label";
+
+/* Class = "UILabel"; text = "Desarrollado por:"; ObjectID = "gZK-4s-b8p"; */
+"gZK-4s-b8p.text" = "Desarrollado por:";
+
+/* Class = "UIBarButtonItem"; title = "OK"; ObjectID = "glK-0O-QzT"; */
+"glK-0O-QzT.title" = "OK";
+
+/* Class = "UIButton"; normalTitle = "UCR"; ObjectID = "gzl-YW-fsO"; */
+"gzl-YW-fsO.normalTitle" = "UCR";
+
+/* Class = "UILabel"; text = "Hmáx"; ObjectID = "h23-f1-xa0"; */
+"h23-f1-xa0.text" = "Hmáx";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hih-Ze-hr4"; */
+"hih-Ze-hr4.text" = "Label";
+
+/* Class = "UILabel"; text = "99.9"; ObjectID = "hwW-tw-JaP"; */
+"hwW-tw-JaP.text" = "99.9";
+
+/* Class = "UILabel"; text = "< 1 metro"; ObjectID = "iJz-8P-30a"; */
+"iJz-8P-30a.text" = "< 1 metro";
+
+/* Class = "UITextView"; text = "Universidad de Costa Rica, Ciudad de la Investigación, Finca 2, Edificio CIMAR.
+Apartado Postal: 11501-2060
+"; ObjectID = "jLH-3o-vgu"; */
+"jLH-3o-vgu.text" = "Universidad de Costa Rica, Ciudad de la Investigación, Finca 2, Edificio CIMAR.
+Apartado Postal: 11501-2060
+";
+
+/* Class = "UILabel"; text = "Some long text"; ObjectID = "js0-or-Wc1"; */
+"js0-or-Wc1.text" = "Some long text";
+
+/* Class = "UILabel"; text = "Calificar esta app"; ObjectID = "juF-P6-OMC"; */
+"juF-P6-OMC.text" = "Calificar esta app";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kPo-iX-2mn"; */
+"kPo-iX-2mn.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = "OK"; ObjectID = "kbs-hs-hGe"; */
+"kbs-hs-hGe.title" = "OK";
+
+/* Class = "UILabel"; text = "Desarrollado por:"; ObjectID = "krG-HE-wZd"; */
+"krG-HE-wZd.text" = "Desarrollado por:";
+
+/* Class = "UILabel"; text = "30 junio, 2016 | 9 pm"; ObjectID = "krW-ea-UUc"; */
+"krW-ea-UUc.text" = "30 junio, 2016 | 9 pm";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lND-Lj-VmW"; */
+"lND-Lj-VmW.text" = "Label";
+
+/* Class = "UILabel"; text = "Español"; ObjectID = "lue-eT-0UE"; */
+"lue-eT-0UE.text" = "Español";
+
+/* Class = "UILabel"; text = "2016 MIOCIMAR 2.0"; ObjectID = "luz-Ki-gWB"; */
+"luz-Ki-gWB.text" = "2016 MIOCIMAR 2.0";
+
+/* Class = "UINavigationItem"; title = "Contacto"; ObjectID = "mnH-ln-lMC"; */
+"mnH-ln-lMC.title" = "Contacto";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "n2j-0k-CCl"; */
+"n2j-0k-CCl.text" = "Label";
+
+/* Class = "UILabel"; text = "metros"; ObjectID = "nK1-Jz-dNu"; */
+"nK1-Jz-dNu.text" = "metros";
+
+/* Class = "UINavigationItem"; title = "Mareas"; ObjectID = "nUS-Dp-ER1"; */
+"nUS-Dp-ER1.title" = "Mareas";
+
+/* Class = "UITableViewSection"; headerTitle = "UNIDADES DE MEDIDA"; ObjectID = "njW-ob-qhv"; */
+"njW-ob-qhv.headerTitle" = "UNIDADES DE MEDIDA";
+
+/* Class = "UINavigationItem"; title = "Oleaje"; ObjectID = "nrL-80-Cuc"; */
+"nrL-80-Cuc.title" = "Oleaje";
+
+/* Class = "UILabel"; text = "Hora"; ObjectID = "pba-b7-uYL"; */
+"pba-b7-uYL.text" = "Hora";
+
+/* Class = "UILabel"; text = "Ráfaga de viento (km/h)"; ObjectID = "qVv-fR-Tel"; */
+"qVv-fR-Tel.text" = "Ráfaga de viento (km/h)";
+
+/* Class = "UILabel"; text = "Algunos"; ObjectID = "qWh-y8-v1X"; */
+"qWh-y8-v1X.text" = "Algunos";
+
+/* Class = "UILabel"; text = "Tp"; ObjectID = "raM-FN-Bly"; */
+"raM-FN-Bly.text" = "Tp";
+
+/* Class = "UIButton"; normalTitle = "Ver Comentario"; ObjectID = "rgf-Kr-0AB"; */
+"rgf-Kr-0AB.normalTitle" = "Ver Comentario";
+
+/* Class = "UILabel"; text = "Periodo de las olas (segundos)"; ObjectID = "sjI-4E-UO8"; */
+"sjI-4E-UO8.text" = "Periodo de las olas (segundos)";
+
+/* Class = "UINavigationItem"; title = "Ajustes"; ObjectID = "t0v-ry-zJV"; */
+"t0v-ry-zJV.title" = "Ajustes";
+
+/* Class = "UILabel"; text = "Válido del miércoles 20/10 al miércoles 27/10"; ObjectID = "ths-Ef-Nqo"; */
+"ths-Ef-Nqo.text" = "Válido del miércoles 20/10 al miércoles 27/10";
+
+/* Class = "UILabel"; text = "Some long text"; ObjectID = "uiu-P6-7lX"; */
+"uiu-P6-7lX.text" = "Some long text";
+
+/* Class = "UILabel"; text = "km/h"; ObjectID = "ums-Gc-j2n"; */
+"ums-Gc-j2n.text" = "km/h";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "uq0-Vg-krC"; */
+"uq0-Vg-krC.text" = "Label";
+
+/* Class = "UILabel"; text = "Dirección del viento (grados)"; ObjectID = "w5r-74-2gv"; */
+"w5r-74-2gv.text" = "Dirección del viento (grados)";
+
+/* Class = "UILabel"; text = "Idioma"; ObjectID = "wAB-sm-HwB"; */
+"wAB-sm-HwB.text" = "Idioma";
+
+/* Class = "UILabel"; text = "< 22.2 Km/h"; ObjectID = "wEU-7H-hKJ"; */
+"wEU-7H-hKJ.text" = "< 22.2 Km/h";
+
+/* Class = "UITableViewSection"; headerTitle = "UNIDADES DE MEDIDA"; ObjectID = "waB-ye-4aB"; */
+"waB-ye-4aB.headerTitle" = "UNIDADES DE MEDIDA";
+
+/* Class = "UILabel"; text = "Altura significativa de la ola (metros)"; ObjectID = "xAY-fQ-m16"; */
+"xAY-fQ-m16.text" = "Altura significativa de la ola (metros)";
+
+/* Class = "UILabel"; text = "Español"; ObjectID = "yVP-aZ-Y6X"; */
+"yVP-aZ-Y6X.text" = "Español";
+
+/* Class = "UIButton"; normalTitle = "Buscar por fecha"; ObjectID = "ycb-AS-ea7"; */
+"ycb-AS-ea7.normalTitle" = "Buscar por fecha";
+
+/* Class = "UINavigationItem"; title = "Ayuda"; ObjectID = "yd8-78-syi"; */
+"yd8-78-syi.title" = "Ayuda";
+
+/* Class = "UILabel"; text = "2016 MIO CIMAR 2.0"; ObjectID = "zJ1-DZ-kbi"; */
+"zJ1-DZ-kbi.text" = "2017 MIO CIMAR 2.1";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zzn-2j-pYe"; */
+"zzn-2j-pYe.text" = "Label";
