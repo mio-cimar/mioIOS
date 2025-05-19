@@ -8,7 +8,6 @@ target 'MIO' do
   pod 'FLAnimatedImage', '~> 1.0'
   pod 'TTTAttributedLabel'
   pod 'CGLMail', '~> 0.1'
-  pod 'SDiPhoneVersion', '~> 1.1.1'
   pod 'DateTools', '1.7.0'
   pod 'AsyncImageView', '1.6'
   pod 'ActionSheetPicker-3.0', '2.7.4'
@@ -19,7 +18,6 @@ target 'MIO' do
   pod 'Firebase', '10.0.0'
   pod 'Firebase/Firestore', '10.0.0'
   pod 'Firebase/Messaging', '10.0.0'
-  pod 'SDiPhoneVersion'
   pod 'SDVersion', :git => 'https://github.com/sebyddd/SDVersion.git'
 
 end
