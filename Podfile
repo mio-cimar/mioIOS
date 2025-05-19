@@ -19,6 +19,7 @@ target 'MIO' do
   pod 'Firebase', '10.0.0'
   pod 'Firebase/Firestore', '10.0.0'
   pod 'Firebase/Messaging', '10.0.0'
+  pod 'SDiPhoneVersion'
   pod 'SDVersion', :git => 'https://github.com/sebyddd/SDVersion.git'
 
 end
