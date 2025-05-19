@@ -20,16 +20,15 @@ target 'MIO' do
   pod 'Firebase', '10.0.0'
   pod 'Firebase/Firestore', '10.0.0'
   pod 'Firebase/Messaging', '10.0.0'
-  #    pod 'GoogleAnalytics'
-  #    pod 'Fabric'
-  #    pod 'Crashlytics'
-  #    pod 'Firebase', '10.5.0'
-  #    pod 'Firebase/Messaging', '10.5.0'
-  #    pod 'Firebase/Core', '10.5.0'
-  #    pod 'Firebase/Firestore', '10.5.0'
 end
 
 post_install do |installer|
+  # Arregla el error de arquitectura en simulador
+  installer.pods_project.build_configurations.each do |config|
+    config.build_settings['EXCLUDED_ARCHS[sdk=iphonesimulator*]'] = 'arm64'
+  end
+
+  # Fix para BoringSSL-GRPC
   installer.pods_project.targets.each do |target|
     if target.name == 'BoringSSL-GRPC'
       target.source_build_phase.files.each do |file|
@@ -41,13 +40,11 @@ post_install do |installer|
       end
     end
   end
-  
-  installer_representation = installer.pods_project
 
-  installer_representation.targets.each do |target|
+  # Setea el target de implementación a 15.0 en todos los pods
+  installer.pods_project.targets.each do |target|
     target.build_configurations.each do |config|
       config.build_settings['IPHONEOS_DEPLOYMENT_TARGET'] = '15.0'
     end
   end
-  
 end
