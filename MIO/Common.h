@@ -10,7 +10,8 @@
 //#import <FirebaseAnalytics/FirebaseAnalytics.h>
 
 //Importaciones Globales
-#import <SDVersion/SDVersion.h>
+#import "SDVersion.h"
+
 
 //Métricas Usadas en la Aplicación
 #define MENU_PRINCIPAL_ANCHO 230.0
