@@ -1,4 +1,5 @@
-source 'https://github.com/CocoaPods/Specs.git'
+source 'https://cdn.cocoapods.org/'
+
 use_modular_headers!
 use_frameworks!
 #use_frameworks! :linkage => :static
