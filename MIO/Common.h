@@ -10,7 +10,7 @@
 //#import <FirebaseAnalytics/FirebaseAnalytics.h>
 
 //Importaciones Globales
-#import <SDiPhoneVersion/SDiPhoneVersion.h>
+#import "SDiPhoneVersion.h"
 
 
 //Métricas Usadas en la Aplicación
