@@ -18,7 +18,7 @@ target 'MIO' do
   pod 'Firebase', '10.0.0'
   pod 'Firebase/Firestore', '10.0.0'
   pod 'Firebase/Messaging', '10.0.0'
-  pod 'SDVersion', '~> 4.1.0'
+  pod 'SDiPhoneVersion', '~> 1.1.1'
 
 end
 
