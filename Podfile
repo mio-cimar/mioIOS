@@ -1,4 +1,4 @@
-source 'https://cdn.cocoapods.org/'
+source 'https://github.com/CocoaPods/Specs.git'
 use_modular_headers!
 use_frameworks!
 platform :ios, '15.0'
