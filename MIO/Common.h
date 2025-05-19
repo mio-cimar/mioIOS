@@ -10,8 +10,7 @@
 //#import <FirebaseAnalytics/FirebaseAnalytics.h>
 
 //Importaciones Globales
-#import "SDiPhoneVersion.h"
-
+#import <SDVersion/SDVersion.h>
 
 //Métricas Usadas en la Aplicación
 #define MENU_PRINCIPAL_ANCHO 230.0
